@@ -1,7 +1,7 @@
 [build]
   base = "meu-painel-corrigido/meu-painel"
   command = "npm run build"
-  publish = "meu-painel-corrigido/meu-painel/dist"
+  publish = "dist"
 
 [[headers]]
   for = "/*"
